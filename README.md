@@ -11,9 +11,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ironmanu&" alt="ironmanu" /></p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ironmanu)](https://git.io/streak-stats)
-
 ## Contact with me
 
 > How can you get in touch with me
